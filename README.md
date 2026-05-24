@@ -169,6 +169,11 @@ APB handshake verified: PSEL, PENABLE, PREADY toggle
 correctly. PRDATA returns correct rx values after
 transaction completes.
 
+
+WAVEFORM OF THE SPI-Master-Slave-system-with-APB-Interface
+
+![Waveform](tb/tb.png)
+
 ---
 
 ## Key RTL Lessons Learned
